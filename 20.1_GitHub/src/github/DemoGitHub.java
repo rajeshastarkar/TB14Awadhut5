@@ -10,6 +10,10 @@ public class DemoGitHub
 	{
 		System.out.println("m2--A");
 	}
+	public void m3()
+	{
+		System.out.println("m3--A");
+	}
 	public static void main(String[] args)
 	{
 		System.out.println("CJC JAVA");	
@@ -17,6 +21,7 @@ public class DemoGitHub
 		DemoGitHub g = new DemoGitHub();
 		g.m1();
 		g.m2();
+		g.m3();
 	}
 	
 }
