@@ -11,6 +11,10 @@ public class DemoGitHub
 	{
 		System.out.println("m3--A");
 	}
+	public void m5()
+	{
+		System.out.println("m5--A");
+	}
 	public static void main(String[] args)
 	{
 		System.out.println("CJC JAVA");	
