@@ -6,10 +6,7 @@ public class DemoGitHub
 	{
 		System.out.println("m1--A");
 	}
-	public void m2()
-	{
-		System.out.println("m2--A");
-	}
+	
 	public void m3()
 	{
 		System.out.println("m3--A");
@@ -20,7 +17,6 @@ public class DemoGitHub
 		
 		DemoGitHub g = new DemoGitHub();
 		g.m1();
-		g.m2();
 		g.m3();
 	}
 	
