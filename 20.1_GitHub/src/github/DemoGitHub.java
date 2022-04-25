@@ -8,7 +8,10 @@ public class DemoGitHub
 	}
 	public static void main(String[] args)
 	{
-		System.out.println("CJC JAVA");		
+		System.out.println("CJC JAVA");	
+		
+		DemoGitHub g = new DemoGitHub();
+		g.m1();
 	}
 	
 }
